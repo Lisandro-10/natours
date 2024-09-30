@@ -29,5 +29,3 @@ This course offered a comprehensive curriculum covering fundamental concepts as 
 -   Exploring the NoSQL data model and performing CRUD operations with MongoDB
 -   Deep diving into Mongoose for data modeling, validation, and middleware
 -   Implementing MVC architecture for scalable and maintainable codebases
-
-## My Contribution to the project
